@@ -1,5 +1,4 @@
 # console-based-social-networking-tool-that-focuses-on-UCP-campus-events.-
-Config files for my GitHub profile.
 Implement a console-based social networking tool that focuses on UCP campus events. It will
 run in the console/terminal at the command prompt, and the database of users and their data
 will be stored in text file. (You might think of this project a skeleton for a program/app that will
